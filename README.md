@@ -36,8 +36,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://adi-mizrahi.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/adi-mizrahi11/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adi.mizrahi10/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:adimizrahi421@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://adi-mizrahi.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adi-mizrahi.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/adi-mizrahi11/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adi%20Mizrahi-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/adi.mizrahi10/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adi.mizrahi10__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:adimizrahi421@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adimizrahi421-blue?style=flat-square&logo=gmail"></a>
 </p>
