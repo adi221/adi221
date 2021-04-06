@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying and Dreaming of Web Development.
 - 💼 &nbsp; Looking for Front End Job.
 - 🌱 &nbsp; Always Learning and Exploring New Technologies.
