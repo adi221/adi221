@@ -10,16 +10,16 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 🌐 &nbsp;
+🌐 &nbsp;
 HTML5, CSS3, JavaScript
 
-- 🛢 &nbsp;
+🛢 &nbsp;
 React, Redux, GraphQL, Gatsby
 
-- ⚙️ &nbsp;
+⚙️ &nbsp;
 Git, Github, Markdown
 
-- 🔧 &nbsp;
+🔧 &nbsp;
 Visual Studio Code
 
 
