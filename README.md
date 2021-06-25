@@ -24,7 +24,6 @@ Git, Github, Markdown
 - 🔧 &nbsp;
 Visual Studio Code
 
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
