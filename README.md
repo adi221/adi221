@@ -13,7 +13,7 @@
 HTML5, CSS3, JavaScript
 
 - 🛢 &nbsp;
-React, Redux, GraphQL, Gatsby
+React, Redux, GraphQL, Gatsby, TypeScript
 
 - 🔚 &nbsp;
 Node.js, Express.js, MongoDB
