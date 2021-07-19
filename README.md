@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying and Dreaming of Web Development.
-- 💼 &nbsp; Looking for a FrontEnd Job.
+- 💼 &nbsp; Looking for a Front end / Full stack development Job.
 - 🌱 &nbsp; Always Learning and Exploring New Technologies.
 - ✍️ &nbsp; Pursuing Health Optimization, Reading Books and Writing as Hobbies and Ways to Improve Myself.
 
