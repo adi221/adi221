@@ -7,6 +7,6 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/adi-mizrahi11/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adi%20Mizrahi-blue?style=flat-square&logo=linkedin"></a>
 </p>
