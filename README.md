@@ -5,17 +5,6 @@
 - 🌱 &nbsp; Always Learning and Exploring New Technologies.
 - ✍️ &nbsp; Pursuing Health Optimization, Reading Books and Writing as Hobbies and Ways to Improve Myself.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 🌐 &nbsp;
-HTML5, CSS3, JavaScript, Golang
-
-- 🛢 &nbsp;
-React, Redux, GraphQL, Gatsby, TypeScript
-
-- 🔚 &nbsp;
-Node.js, Express.js, MongoDB, Postgres
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
